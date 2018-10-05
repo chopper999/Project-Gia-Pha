@@ -1,0 +1,4 @@
+﻿  cau1.1.cpp
+e:\cau truc du lieu\baitapcannop\cau1.1\cau1.1\cau1.1.cpp(325): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\cau truc du lieu\baitapcannop\cau1.1\cau1.1\cau1.1.cpp(240): warning C4715: 'timkiemtuyentinh': not all control paths return a value
+  cau1.1.vcxproj -> E:\cau truc du lieu\Baitapcannop\cau1.1\Debug\cau1.1.exe
